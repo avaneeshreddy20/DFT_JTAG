@@ -1,0 +1,41 @@
+# //  ModelSim SE-64 6.6g May 23 2012 Linux 3.10.0-1160.71.1.el7.x86_64
+# //
+# //  Copyright 1991-2012 Mentor Graphics Corporation
+# //              All Rights Reserved.
+# //
+# //  THIS WORK CONTAINS TRADE SECRET AND 
+# //  PROPRIETARY INFORMATION WHICH IS THE PROPERTY
+# //  OF MENTOR GRAPHICS CORPORATION OR ITS LICENSORS
+# //  AND IS SUBJECT TO LICENSE TERMS.
+# //
+# Loading project MS_Project_Final
+# 
+#  
+# Compile of boundary_scan_register.vhd was successful.
+# Compile of bsr_tb.vhd was successful with warnings.
+# Compile of bypass.vhd was successful.
+# Compile of bypass_tb.vhd was successful with warnings.
+# Compile of creating_pp.vhd was successful.
+# Compile of decoder.vhd was successful.
+# Compile of decoder_tb.vhd was successful with warnings.
+# Compile of Exact_Array_Multi_8bit.vhd was successful.
+# Compile of falling_fipflop.vhd was successful.
+# Compile of fullAdder.vhd was successful.
+# Compile of instruction_register.vhd was successful.
+# Compile of instruction_register_tb.vhd was successful.
+# Compile of ip_bsc.vhd was successful.
+# Compile of ip_bsc_tb.vhd was successful.
+# Compile of mux.vhd was successful.
+# Compile of myAND.vhd was successful.
+# Compile of op_bsc.vhd was successful.
+# Compile of tap.vhd was successful.
+# Compile of tap_tb.vhd was successful.
+# Compile of top.vhd was successful.
+# Compile of top_tb.vhd was successful with warnings.
+# Compile of top_tb1_NormalMult.vhd was successful with warnings.
+# Compile of top_tb2_bypass.vhd was successful with warnings.
+# Compile of top_tb3_BSTest.vhd was successful with warnings.
+# Compile of rising_flipflop.vhd was successful.
+# Compile of FA_tb.vhd was successful.
+# Compile of mult_tb.vhd was successful.
+# 27 compiles, 0 failed with no errors. 

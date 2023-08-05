@@ -1,0 +1,217 @@
+/nfs/home/p/p_pallik/COEN6521/MS_Project_Final/top.vhd {1 {vcom -work work -2002 -explicit -vopt /nfs/home/p/p_pallik/COEN6521/MS_Project_Final/top.vhd
+Model Technology ModelSim SE-64 vcom 6.6g Compiler 2012.05 May 23 2012
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package numeric_std
+-- Compiling entity top_module
+-- Compiling architecture structural of top_module
+
+} {} {}} /nfs/home/p/p_pallik/COEN6521/MS_Project_Final/decoder_tb.vhd {2 {vcom -work work -2002 -explicit -vopt /nfs/home/p/p_pallik/COEN6521/MS_Project_Final/decoder_tb.vhd
+Model Technology ModelSim SE-64 vcom 6.6g Compiler 2012.05 May 23 2012
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity decoder_tb
+-- Compiling architecture behavioral of decoder_tb
+** Warning: [4] /nfs/home/p/p_pallik/COEN6521/MS_Project_Final/decoder_tb.vhd(21): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+
+} {} {}} /nfs/home/p/p_pallik/COEN6521/MS_Project_Final/top_tb2_bypass.vhd {2 {vcom -work work -2002 -explicit -vopt /nfs/home/p/p_pallik/COEN6521/MS_Project_Final/top_tb2_bypass.vhd
+Model Technology ModelSim SE-64 vcom 6.6g Compiler 2012.05 May 23 2012
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package std_logic_unsigned
+-- Compiling entity top_tb2
+-- Compiling architecture behavioral of top_tb2
+** Warning: [4] /nfs/home/p/p_pallik/COEN6521/MS_Project_Final/top_tb2_bypass.vhd(34): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+
+} {} {}} /nfs/home/p/p_pallik/COEN6521/MS_Project_Final/falling_fipflop.vhd {1 {vcom -work work -2002 -explicit -vopt /nfs/home/p/p_pallik/COEN6521/MS_Project_Final/falling_fipflop.vhd
+Model Technology ModelSim SE-64 vcom 6.6g Compiler 2012.05 May 23 2012
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity falling_flipflop
+-- Compiling architecture behavioral of falling_flipflop
+
+} {} {}} /nfs/home/p/p_pallik/COEN6521/MS_Project_Final/ip_bsc_tb.vhd {1 {vcom -work work -2002 -explicit -vopt /nfs/home/p/p_pallik/COEN6521/MS_Project_Final/ip_bsc_tb.vhd
+Model Technology ModelSim SE-64 vcom 6.6g Compiler 2012.05 May 23 2012
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package numeric_std
+-- Compiling entity ip_bsc_tb
+-- Compiling architecture behavioral of ip_bsc_tb
+
+} {} {}} /nfs/home/p/p_pallik/COEN6521/MS_Project_Final/tap.vhd {1 {vcom -work work -2002 -explicit -vopt /nfs/home/p/p_pallik/COEN6521/MS_Project_Final/tap.vhd
+Model Technology ModelSim SE-64 vcom 6.6g Compiler 2012.05 May 23 2012
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package numeric_std
+-- Compiling entity tap_controller
+-- Compiling architecture behavioral of tap_controller
+
+} {} {}} /nfs/home/p/p_pallik/COEN6521/MS_Project_Final/decoder.vhd {1 {vcom -work work -2002 -explicit -vopt /nfs/home/p/p_pallik/COEN6521/MS_Project_Final/decoder.vhd
+Model Technology ModelSim SE-64 vcom 6.6g Compiler 2012.05 May 23 2012
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity decoder
+-- Compiling architecture behavioral of decoder
+
+} {} {}} /nfs/home/p/p_pallik/COEN6521/MS_Project_Final/mult_tb.vhd {1 {vcom -work work -2002 -explicit -vopt /nfs/home/p/p_pallik/COEN6521/MS_Project_Final/mult_tb.vhd
+Model Technology ModelSim SE-64 vcom 6.6g Compiler 2012.05 May 23 2012
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package std_logic_unsigned
+-- Compiling entity mult_tb
+-- Compiling architecture behavioral of mult_tb
+
+} {} {}} /nfs/home/p/p_pallik/COEN6521/MS_Project_Final/bypass_tb.vhd {2 {vcom -work work -2002 -explicit -vopt /nfs/home/p/p_pallik/COEN6521/MS_Project_Final/bypass_tb.vhd
+Model Technology ModelSim SE-64 vcom 6.6g Compiler 2012.05 May 23 2012
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity bypass_tb
+-- Compiling architecture behavioral of bypass_tb
+** Warning: [4] /nfs/home/p/p_pallik/COEN6521/MS_Project_Final/bypass_tb.vhd(20): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+
+} {} {}} /nfs/home/p/p_pallik/COEN6521/MS_Project_Final/rising_flipflop.vhd {1 {vcom -work work -2002 -explicit -vopt /nfs/home/p/p_pallik/COEN6521/MS_Project_Final/rising_flipflop.vhd
+Model Technology ModelSim SE-64 vcom 6.6g Compiler 2012.05 May 23 2012
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity rising_flipflop
+-- Compiling architecture behavioral of rising_flipflop
+
+} {} {}} /nfs/home/p/p_pallik/COEN6521/MS_Project_Final/top_tb.vhd {2 {vcom -work work -2002 -explicit -vopt /nfs/home/p/p_pallik/COEN6521/MS_Project_Final/top_tb.vhd
+Model Technology ModelSim SE-64 vcom 6.6g Compiler 2012.05 May 23 2012
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package std_logic_unsigned
+-- Compiling entity top_tb
+-- Compiling architecture behavioral of top_tb
+** Warning: [4] /nfs/home/p/p_pallik/COEN6521/MS_Project_Final/top_tb.vhd(26): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+
+} {} {}} /nfs/home/p/p_pallik/COEN6521/MS_Project_Final/ip_bsc.vhd {1 {vcom -work work -2002 -explicit -vopt /nfs/home/p/p_pallik/COEN6521/MS_Project_Final/ip_bsc.vhd
+Model Technology ModelSim SE-64 vcom 6.6g Compiler 2012.05 May 23 2012
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity ip_bsc
+-- Compiling architecture behavioral of ip_bsc
+
+} {} {}} /nfs/home/p/p_pallik/COEN6521/MS_Project_Final/myAND.vhd {1 {vcom -work work -2002 -explicit -vopt /nfs/home/p/p_pallik/COEN6521/MS_Project_Final/myAND.vhd
+Model Technology ModelSim SE-64 vcom 6.6g Compiler 2012.05 May 23 2012
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package std_logic_unsigned
+-- Compiling entity myand
+-- Compiling architecture behavioral of myand
+
+} {} {}} /nfs/home/p/p_pallik/COEN6521/MS_Project_Final/mux.vhd {1 {vcom -work work -2002 -explicit -vopt /nfs/home/p/p_pallik/COEN6521/MS_Project_Final/mux.vhd
+Model Technology ModelSim SE-64 vcom 6.6g Compiler 2012.05 May 23 2012
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity mux
+-- Compiling architecture behavioral of mux
+
+} {} {}} /nfs/home/p/p_pallik/COEN6521/MS_Project_Final/bypass.vhd {1 {vcom -work work -2002 -explicit -vopt /nfs/home/p/p_pallik/COEN6521/MS_Project_Final/bypass.vhd
+Model Technology ModelSim SE-64 vcom 6.6g Compiler 2012.05 May 23 2012
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity bypass
+-- Compiling architecture structural of bypass
+
+} {} {}} /nfs/home/p/p_pallik/COEN6521/MS_Project_Final/tap_tb.vhd {1 {vcom -work work -2002 -explicit -vopt /nfs/home/p/p_pallik/COEN6521/MS_Project_Final/tap_tb.vhd
+Model Technology ModelSim SE-64 vcom 6.6g Compiler 2012.05 May 23 2012
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package numeric_std
+-- Compiling entity tap_tb
+-- Compiling architecture behavioral of tap_tb
+
+} {} {}} /nfs/home/p/p_pallik/COEN6521/MS_Project_Final/Exact_Array_Multi_8bit.vhd {1 {vcom -work work -2002 -explicit -vopt /nfs/home/p/p_pallik/COEN6521/MS_Project_Final/Exact_Array_Multi_8bit.vhd
+Model Technology ModelSim SE-64 vcom 6.6g Compiler 2012.05 May 23 2012
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package std_logic_unsigned
+-- Compiling entity multi_8bit
+-- Compiling architecture behavioral of multi_8bit
+
+} {} {}} /nfs/home/p/p_pallik/COEN6521/MS_Project_Final/fullAdder.vhd {1 {vcom -work work -2002 -explicit -vopt /nfs/home/p/p_pallik/COEN6521/MS_Project_Final/fullAdder.vhd
+Model Technology ModelSim SE-64 vcom 6.6g Compiler 2012.05 May 23 2012
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity fulladder
+-- Compiling architecture fulladd of fulladder
+
+} {} {}} /nfs/home/p/p_pallik/COEN6521/MS_Project_Final/instruction_register_tb.vhd {1 {vcom -work work -2002 -explicit -vopt /nfs/home/p/p_pallik/COEN6521/MS_Project_Final/instruction_register_tb.vhd
+Model Technology ModelSim SE-64 vcom 6.6g Compiler 2012.05 May 23 2012
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity instruction_register_tb
+-- Compiling architecture behavioral of instruction_register_tb
+
+} {} {}} /nfs/home/p/p_pallik/COEN6521/MS_Project_Final/top_tb1_NormalMult.vhd {2 {vcom -work work -2002 -explicit -vopt /nfs/home/p/p_pallik/COEN6521/MS_Project_Final/top_tb1_NormalMult.vhd
+Model Technology ModelSim SE-64 vcom 6.6g Compiler 2012.05 May 23 2012
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package std_logic_unsigned
+-- Compiling entity top_tb1
+-- Compiling architecture behavioral of top_tb1
+** Warning: [4] /nfs/home/p/p_pallik/COEN6521/MS_Project_Final/top_tb1_NormalMult.vhd(32): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+
+} {} {}} /nfs/home/p/p_pallik/COEN6521/MS_Project_Final/boundary_scan_register.vhd {1 {vcom -work work -2002 -explicit -vopt /nfs/home/p/p_pallik/COEN6521/MS_Project_Final/boundary_scan_register.vhd
+Model Technology ModelSim SE-64 vcom 6.6g Compiler 2012.05 May 23 2012
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity boundary_scan
+-- Compiling architecture structural of boundary_scan
+
+} {} {}} /nfs/home/p/p_pallik/COEN6521/MS_Project_Final/creating_pp.vhd {1 {vcom -work work -2002 -explicit -vopt /nfs/home/p/p_pallik/COEN6521/MS_Project_Final/creating_pp.vhd
+Model Technology ModelSim SE-64 vcom 6.6g Compiler 2012.05 May 23 2012
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package std_logic_unsigned
+-- Compiling entity creating_pp
+-- Compiling architecture behavioral of creating_pp
+
+} {} {}} /nfs/home/p/p_pallik/COEN6521/MS_Project_Final/bsr_tb.vhd {2 {vcom -work work -2002 -explicit -vopt /nfs/home/p/p_pallik/COEN6521/MS_Project_Final/bsr_tb.vhd
+Model Technology ModelSim SE-64 vcom 6.6g Compiler 2012.05 May 23 2012
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity bsr_tb
+-- Compiling architecture behavioral of bsr_tb
+** Warning: [4] /nfs/home/p/p_pallik/COEN6521/MS_Project_Final/bsr_tb.vhd(28): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+
+} {} {}} /nfs/home/p/p_pallik/COEN6521/MS_Project_Final/FA_tb.vhd {1 {vcom -work work -2002 -explicit -vopt /nfs/home/p/p_pallik/COEN6521/MS_Project_Final/FA_tb.vhd
+Model Technology ModelSim SE-64 vcom 6.6g Compiler 2012.05 May 23 2012
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity fa_tb
+-- Compiling architecture behavioral of fa_tb
+
+} {} {}} /nfs/home/p/p_pallik/COEN6521/MS_Project_Final/op_bsc.vhd {1 {vcom -work work -2002 -explicit -vopt /nfs/home/p/p_pallik/COEN6521/MS_Project_Final/op_bsc.vhd
+Model Technology ModelSim SE-64 vcom 6.6g Compiler 2012.05 May 23 2012
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity op_bsc
+-- Compiling architecture behavioral of op_bsc
+
+} {} {}} /nfs/home/p/p_pallik/COEN6521/MS_Project_Final/instruction_register.vhd {1 {vcom -work work -2002 -explicit -vopt /nfs/home/p/p_pallik/COEN6521/MS_Project_Final/instruction_register.vhd
+Model Technology ModelSim SE-64 vcom 6.6g Compiler 2012.05 May 23 2012
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity instruction_register
+-- Compiling architecture structural of instruction_register
+
+} {} {}} /nfs/home/p/p_pallik/COEN6521/MS_Project_Final/top_tb3_BSTest.vhd {2 {vcom -work work -2002 -explicit -vopt /nfs/home/p/p_pallik/COEN6521/MS_Project_Final/top_tb3_BSTest.vhd
+Model Technology ModelSim SE-64 vcom 6.6g Compiler 2012.05 May 23 2012
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package std_logic_unsigned
+-- Compiling entity top_tb3
+-- Compiling architecture behavioral of top_tb3
+** Warning: [4] /nfs/home/p/p_pallik/COEN6521/MS_Project_Final/top_tb3_BSTest.vhd(33): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+
+} {} {}}
